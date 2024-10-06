@@ -1,9 +1,7 @@
 // block 1  
 // to import standard input and output  
 #include <stdio.h>  
-// to import clear statements, etc. ( if any )  
-#include <conio.h>  
-// to import standard libraries  
+// to import clear statements, etc. ( if any )   
 #include <stdlib.h>  
 // to import strings and use strings  
 #include <string.h>  
